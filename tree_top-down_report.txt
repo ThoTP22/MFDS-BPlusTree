@@ -1,0 +1,16 @@
+B+Tree Construction Report - TOP-DOWN
+======================================
+Data size: 194871710
+Tree order: 500
+Construction time: 4978.277 seconds
+Construction method: top-down
+Tree height: 4
+Total nodes: 542332
+Root type: Internal
+Tree validation: PASSED
+Cache statistics: Cache Statistics: Size=100, Searches=1000, Hits=0, Hit Rate=0,00%
+Search performance:
+  - Total search time: 0.006 seconds
+  - Average search time: 0.006 ms
+======================================
+Generated on: Sat May 10 02:27:21 ICT 2025

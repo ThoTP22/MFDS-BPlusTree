@@ -1,0 +1,15 @@
+B+Tree Construction Report - BOTTOM-UP
+======================================
+Data size: 44569782
+Tree order: 500
+Construction time: 43.277 seconds
+Construction method: bottom-up
+Tree height: 3
+Total nodes: 89499
+Root type: Internal
+Tree validation: FAILED
+Search performance:
+  - Total search time: 0.003 seconds
+  - Average search time: 0.003 ms
+======================================
+Generated on: Tue May 06 10:44:33 ICT 2025

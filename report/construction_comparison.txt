@@ -1,0 +1,12 @@
+B+Tree Construction Methods Comparison
+======================================
+Construction time:
+- Top-down: 1.504 seconds
+- Bottom-up: 0.668 seconds
+- Faster method: Bottom-up (by 0.836 seconds)
+Search time:
+- Top-down: 0.004 seconds
+- Bottom-up: 0.002 seconds
+- Faster method: Bottom-up (by 0.002 seconds)
+======================================
+Generated on: Tue May 06 11:03:31 ICT 2025
