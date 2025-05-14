@@ -59,6 +59,9 @@ com.hadoop.bplustree
 
 ## Setup on Hadoop Cluster
 
+> 💡 If you haven't set up Hadoop yet, follow the official Apache guide:
+> [How to set up a single-node Hadoop cluster](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html)
+
 ### 1. Prepare Hadoop Environment
 
 * Install Hadoop 3.4.1 (pseudo-distributed or fully distributed)
@@ -180,3 +183,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
+## Authors
+
+* Project lead: Trần Phú Thọ (ThoTP22)
+* Contributions by: *Collaborators' names*
