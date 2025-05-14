@@ -107,9 +107,5 @@ Timing and memory usage are logged via `Timer.java`. Outputs include:
 
 ## License
 
-MIT or specify your license here.
+MIT
 
-## Authors
-
-* Project lead: *Your Name*
-* Contributions by: *Collaborators' names*
