@@ -7,12 +7,12 @@ This project implements a **scalable and efficient B+Tree construction** system 
 
 ## Features
 
-* ✅ **Multi-phase execution**: Partitioning → Distribution → Metadata Aggregation
-* 🚀 **Bottom-Up Tree Construction** for speed and memory efficiency
-* 🌍 **Distributed & Scalable**: Built for Hadoop clusters
-* 🧠 **Optimized partitioning** using **QuickSelect** instead of sampling
-* 📊 Performance tracking with detailed time & memory logs
-* 🔧 Configurable with external `.properties` file
+*  **Multi-phase execution**: Partitioning → Distribution → Metadata Aggregation
+*  **Bottom-Up Tree Construction** for speed and memory efficiency
+*  **Distributed & Scalable**: Built for Hadoop clusters
+*  **Optimized partitioning** using **QuickSelect** instead of sampling
+*  Performance tracking with detailed time & memory logs
+*  Configurable with external `.properties` file
 
 ## Environment
 
